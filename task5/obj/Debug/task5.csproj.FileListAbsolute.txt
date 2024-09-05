@@ -1,0 +1,14 @@
+c:\users\bilal\documents\visual studio 2012\Projects\task5\task5\bin\Debug\task5.exe.config
+C:\Users\Bilal\Desktop\task5\task5\bin\Debug\task5.exe.config
+C:\Users\Bilal\Desktop\task5\task5\obj\Debug\task5.csprojResolveAssemblyReference.cache
+C:\Users\Bilal\Desktop\task5\task5\bin\Debug\task5.exe
+C:\Users\Bilal\Desktop\task5\task5\bin\Debug\task5.pdb
+C:\Users\Bilal\Desktop\task5\task5\obj\Debug\task5.exe
+C:\Users\Bilal\Desktop\task5\task5\obj\Debug\task5.pdb
+D:\oop course\sheets\task5\task5\bin\Debug\task5.exe.config
+D:\oop course\sheets\task5\task5\obj\Debug\task5.exe
+D:\oop course\sheets\task5\task5\obj\Debug\task5.pdb
+D:\oop course\sheets\task5\task5\bin\Debug\task5.exe
+D:\oop course\sheets\task5\task5\bin\Debug\task5.pdb
+D:\oop course\sheets\task5\task5\obj\Debug\task5.csproj.AssemblyReference.cache
+D:\oop course\sheets\task5\task5\obj\Debug\task5.csproj.CoreCompileInputs.cache
